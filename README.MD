@@ -1,4 +1,4 @@
-# Ananlog Clock Project
+# Analog Clock Project
 
 This was dont by following along with Web Dev Simplified YouTube channel
 
